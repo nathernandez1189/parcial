@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Entornos virtuales
+venv/
+env/
+
+# Archivos de entorno
+.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos temporales
+tmp/
+temp/
+
+# Archivos de compilación
+dist/
+build/
+
